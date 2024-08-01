@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 512 512" width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg">
   <title>Antinna Icon</title>
   <path d="M 267.19 85.48 L 267.19 249.31 L 146.65 167.4 L 267.19 85.48 Z" fill="#3aa9e2"/>
   <path d="M 267.19 249.31 L 267.19 85.48 L 387.59 167.34 L 267.19 249.31 Z" fill="#2d99d4"/>
